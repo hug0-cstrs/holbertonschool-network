@@ -1,5 +1,7 @@
 # Networking basics
 
+![Network](https://github.com/hug0-cstrs/holbertonschool-network/assets/130242027/1ffa3ff6-44d7-489e-8263-5960f61d6f11)
+
 Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about what is an OSI model, LAN, WAN, IP address, localhost, subnet and TCP/UDP.
 
 ## Technologies :man_technologist:
